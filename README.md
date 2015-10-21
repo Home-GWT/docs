@@ -541,6 +541,19 @@ MenuConstants constants = GWT.create(MenuConstants.class);
 + http://www.tutorialspoint.com/gwt/gwt_create_application.htm
 + http://www.programcreek.com/2011/01/a-example-application-of-gwt/
 + http://ru.stackoverflow.com/questions/52540/Сайты-с-туториалами-по-gwt-smartgwt
+**********************************************[ Открытые ]
++ http://habrahabr.ru/post/246285/
++ http://127.0.0.1:8888/GxtModule.jsp#StudentsListPlace:list
++ https://netbeans.org/kb/74/web/quickstart-webapps-gwt_ru.html
++ http://habrahabr.ru/post/94844/
++ http://samples.gwtproject.org/samples/Showcase/Showcase.html#!CwHorizontalPanel
++ http://alextretyakov.blogspot.com/2011/10/4.html
+
++ https://www.youtube.com/watch?v=JnVxtLPUE9I
++ http://habrahabr.ru/post/81895/
++ http://ru.enetri.com/2010/05/18/1.html
++ http://habrahabr.ru/post/40444/
++ http://mrbool.com/using-google-web-toolkit-with-hibernate/29393
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *[ Закрытые ]
 (Справочные материалы)
