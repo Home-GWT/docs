@@ -555,6 +555,14 @@ MenuConstants constants = GWT.create(MenuConstants.class);
 + http://habrahabr.ru/post/40444/
 + http://mrbool.com/using-google-web-toolkit-with-hibernate/29393
 
++ http://habrahabr.ru/post/40444/
++ http://habrahabr.ru/post/94844/
++ http://habrahabr.ru/post/22970/
++ http://gwt.org.ua/ru/blog/2008/04/03/gwt-dojo-draw-demo/
++ http://gwt.org.ua/ru/blog/2007/10/20/eclipse-team/
++ http://gwt.org.ua/demos/gwt-dojo-drawdemo/DojoSimpleDemo.html
++ http://ru.enetri.com/2010/05/18/1.html
+
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *[ Закрытые ]
 (Справочные материалы)
           (quizful ** Введение в GWT) http://www.quizful.net/post/gwt-tutorial-introduction << http://archive.is/dxV40
