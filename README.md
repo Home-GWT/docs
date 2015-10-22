@@ -541,6 +541,7 @@ MenuConstants constants = GWT.create(MenuConstants.class);
 + http://www.tutorialspoint.com/gwt/gwt_create_application.htm
 + http://www.programcreek.com/2011/01/a-example-application-of-gwt/
 + http://ru.stackoverflow.com/questions/52540/Сайты-с-туториалами-по-gwt-smartgwt
+
 **********************************************[ Открытые ]
 + http://habrahabr.ru/post/246285/
 + http://127.0.0.1:8888/GxtModule.jsp#StudentsListPlace:list
@@ -562,6 +563,48 @@ MenuConstants constants = GWT.create(MenuConstants.class);
 + http://gwt.org.ua/ru/blog/2007/10/20/eclipse-team/
 + http://gwt.org.ua/demos/gwt-dojo-drawdemo/DojoSimpleDemo.html
 + http://ru.enetri.com/2010/05/18/1.html
+
+**********************************************[ Открытые ]
++ http://habrahabr.ru/post/81895/
++ http://ru.enetri.com/2010/05/18/1.html
++ http://habrahabr.ru/post/40444/
++ http://mrbool.com/using-google-web-toolkit-with-hibernate/29393
++ http://alextretyakov.blogspot.com/2011/10/4.html
++ (JobTest/AddressBook) https://github.com/JobTest/AddressBook
++ http://samples.gwtproject.org/samples/Showcase/Showcase.html#!CwHorizontalPanel
++ http://habrahabr.ru/post/94844/
++ http://habrahabr.ru/post/246285/ >> http://127.0.0.1:8888/GxtModule.jsp#StudentsListPlace:list
+- http://snsankar.blogspot.com/
++ (Learn about GWT + Spring + Hibernate integration) https://www.youtube.com/watch?v=JnVxtLPUE9I
+
+(GWT MVP / View <<>> Presenter <<>> Model) https://github.com/Home-GWT/docs
+(Spring / @SessionAttributes("myobject")) http://vmustafayev4en.blogspot.com/2012/10/power-of-springs-modelattribute-and.html
+(Spring / Controller) https://github.com/JobTest/vitrinaPredmainTask/tree/miratex-master/Task/src/test/java/com/miratex
+(Spring / @Transactional) https://github.com/JobTest/vitrinaPredmainTask/tree/miratex-master/Task
+* (Учебник GWT) https://drive.google.com/file/d/0B418nT5Bo9w_engtSTdpVDllY2s/view?pli=1
+* (Введение в платформу веб-инструментария Google Web Toolkit) https://netbeans.org/kb/74/web/quickstart-webapps-gwt_ru.html
+(Hibernate) https://github.com/JobTest/AddressBookDB
+(Hibernate cache) http://habrahabr.ru/post/135176/
+(Жизненный цикл потока) https://github.com/Home-Java8/MyMap/blob/master/description.txt
+(Евгений Борисов — Spring-потрошитель, часть 1) https://mail.yandex.ua/?uid=40270829&login=sashakmets#message/2370000006227199072/r=%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%BA&pos=46&reqid=3487605fa0b4b225ee74c7fa6abe398d&filter=folder:,attaches:no,dates=-
+(java hibernate пример) https://mail.yandex.ua/?uid=40270829&login=sashakmets#message/2370000006060497655/r=%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%BA&pos=91&reqid=3487605fa0b4b225ee74c7fa6abe398d&filter=folder:,attaches:no,dates=-
+(java сокеты многопоточность) https://mail.yandex.ua/?uid=40270829&login=sashakmets#message/2560000000729919226
+(github ** gwt-mvp4g-layouting-demo) https://github.com/shamansir/gwt-mvp4g-layouting-demo
+(Home-SOAP/SOAPExample) https://github.com/Home-SOAP/SOAPExample/blob/master/src/main/java/dev/bay/ws/publisher/Publisher.java
+
+(java servlet методы)
+http://www.java2ee.ru/servlets/lifecycle.html
+http://blog-tago.blogspot.com/2011/02/listeners.html
+(java что такое сессия)
+http://crypto.pp.ua/2010/06/seans-sessiya-v-java/
+http://javatutor.net/books/tiej/servlets
+(что такое enterprise javabeans)
+* http://ejb.javadev.ru/
+(Руководство программиста Enterprise JavaBeans) http://www.javaportal.ru/java/tutorial/EJBProgrammersGuide.pdf
+https://ru.wikipedia.org/wiki/Enterprise_JavaBeans
+
+(Re: BMW530 е39 X5 2001 * 1 700 $ (098 418 9440) * olx + машина по доверенности срок кончился) https://mail.yandex.ua/?uid=40270829&login=sashakmets#message/2560000000316343629
+                                                                                               http://kirovograd.kir.olx.ua/obyavlenie/avtomobil-bmw530-e39-IDdtJIX.html#b227283048
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *[ Закрытые ]
 (Справочные материалы)
@@ -621,6 +664,8 @@ MenuConstants constants = GWT.create(MenuConstants.class);
 
 (Видеоурок — Java + Intellij IDEA 9 + GWT 2.0 + Apache Tomcat) http://habrahabr.ru/post/87728/ >> https://yadi.sk/public/?hash=0%2BCaswMj4phCN6w%2F3saSt48Lk23kT07makFceizeKw0%3D
   (Введение в платформу веб-инструментария Google Web Toolkit) https://netbeans.org/kb/74/web/quickstart-webapps-gwt_ru.html
+
+
 
 +++++++++++++++++++++++++++++++++++++++++++++++
 Libraries
