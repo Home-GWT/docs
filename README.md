@@ -540,7 +540,7 @@ MenuConstants constants = GWT.create(MenuConstants.class);
 + http://alextretyakov.blogspot.com/2011/10/4.html
 + http://www.tutorialspoint.com/gwt/gwt_create_application.htm
 + http://www.programcreek.com/2011/01/a-example-application-of-gwt/
-+ http://ru.stackoverflow.com/questions/52540/Сайты-с-туториалами-по-gwt-smartgwt
+- http://ru.stackoverflow.com/questions/52540/Сайты-с-туториалами-по-gwt-smartgwt
 
 **********************************************[ Открытые ]
 + http://habrahabr.ru/post/246285/
