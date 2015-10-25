@@ -1,0 +1,64 @@
+
+
+                                                                               'Electronic Trading'
+                                                                               --------------------
+Это элекстронный торговый комплекс. Наши клиенты - это крурпные заказчики, которые проводили торговые аукционы продуктом-сырем (накштаут: предприятие/бизнес, фабрика, лес, ...).
+
+    Изначально серверная часть приложения была написана на Java - это был веб-сервис, клиенты к которому обращались и получали объекты через SOAP (WSDL).
+База использовалась PostgreSQL. Здесь были высокие нагрузки обращения к базе по 'SELECT'.
+Поэтому чтобы установить лимит на выборку, sql-транзакция формировала темповую таблицу, ограниченную в пределах 100-500 записей, с которой уже потом работала клиентская часть.
+    А клиентская часть была написана на PHP. Это были электронные таблицы, которые позволяли фильтровать, сортировать, делать постраничный вывод списка продуктов.
+Согласно бизнес-задачам:
+- после авторизации клиенту предоставлялся доступ к группе продуктов к которой он принадлежал
+- сюда клиенты могли добавлять новые свои продукты, просматривать, выбирать и покупать продукты
+- все клиентские запросы выполнялись внутри сессии
+- такое клиентское веб-приложение состояло из нескольких веб-страниц
+
+Моя задача была переписать клиентскую часть используя GWT-фреймворк. Поскольку ожидалось что клиентская часть должна работать на компьютере (десктопных, ноутбуках) и мобильных дивайсах.
+Здесь я применял (Modular Design):
+* 'MVP GWT-фреймворк' - шаблон проектирования, который используется для построения пользовательского интерфейса (элемент 'Presenter' аналогично контроллеру в MVC).
+  IDE:        'Eclipse' + (plugin) 'UiBinder', GWT Development Mode, Jetty, Tomcat
+  Технологии: GWT, GWT MVP (UiBinder)
+
+
+                                 (Введение в MVP GWT 2.1) http://habrahabr.ru/post/113121/
+(GWT, использование UIBinder и истории просмотра страниц) http://andrewyakovlev-gwt.blogspot.com/2013/02/gwt-uibinder.html
+
+(UiBinder) http://www.gwtproject.org/doc/latest/DevGuideUiBinder.html
+           https://www.jetbrains.com/idea/training/demos/GWT.html
+
+
+** (GWT UiBinder “helloworld” with HTML) http://blog.sortedset.com/googles-app-engine-java/gwt-uibinder-helloworld-with-html/
+*               (UiBinder Demonstration) http://www.tutorialspoint.com/gwt/gwt_uibinder.htm
+                                         http://www.tutorialspoint.com/gwt/pdf/gwt_uibinder.pdf
+***                  (GWT - Quick Guide) http://www.tutorialspoint.com/gwt/gwt_quick_guide.htm
+***      (GWT - Contacts - mvp-uibinder) https://github.com/isopov/mvp-uibinder
+*        (онлайн-презенташка)            https://www.jetbrains.com/idea/training/demos/GWT.html
+** (Тестирование GWT приложений архитектуры MVP) http://habrahabr.ru/post/246285/
+
+
+** (GWT UiBinder * создание простого приложения) http://devhow.blogspot.com/2012/01/gwt-uibinder-tutorial.html
+** (GWT MVP made simple) http://www.javacodegeeks.com/2012/02/gwt-mvp-made-simple.html
+(GWTP Samples Project Home ** Demos) https://github.com/ArcBees/GWTP
+                                     https://github.com/ArcBees/GWTP-Samples
+
+
+http://www.giantflyingsaucer.com/blog/?p=978
+(Using UIBinder with Ext GWT 3.0) http://www.slideshare.net/senchainc/using-uibinder-with-ext-gwt-30
+http://mvnrepository.com/artifact/com.sencha.gxt/uibinder-bridge/2.4.0
+http://code.verydapeng.com/2014/02/gwt-uibinder-quick-intro.html
+http://alextretyakov.blogspot.com/2012/08/using-uibinder.html
+(GWT Custom Button using UIBinder) http://www.javacodegeeks.com/2012/03/gwt-custom-button-using-uibinder.html
+https://code.google.com/p/sfeir/wiki/UIBinderEN
+http://www.javabeat.net/what-is-model-view-presenter-mvp-in-gwt-application/
+https://vaadin.com/blog/-/blogs/1940099
+
+
+*  (pkozelka-gxt-uibinder * другие примеры) https://code.google.com/r/pkozelka-gxt-uibinder/source/browse/gxt-uibinder-test/src/com/jhickman/web/gwt/gxtuibindertest/client/view/toolbarmenu/MenuBarView.ui.xml
+                                            https://github.com/jhickman/gxt-uibinder
+                                            http://gxt-uibinder.appspot.com/
+                                            http://jqm4gwt.appspot.com/
+
+(google-web-toolkit) https://code.google.com/p/google-web-toolkit/downloads/list
+
+
