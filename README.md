@@ -536,7 +536,7 @@ MenuConstants constants = GWT.create(MenuConstants.class);
 + http://ru.tmsoftstudio.com/file/page/Eclipse4/e4_ch10_primer-sozdanie-gwt-prilozheniya-content-delivery-node-dlya-platformy-google-app-engine.html
 + http://gwt.org.ua/ru/tutorials/tutorial1-part1/
 + http://gwt.org.ua/ru/tutorials/tutorial1-part2/
-+   http://gwt-rus.blogspot.com/
+-   http://gwt-rus.blogspot.com/
 + http://alextretyakov.blogspot.com/2011/10/4.html
 + http://www.tutorialspoint.com/gwt/gwt_create_application.htm
 + http://www.programcreek.com/2011/01/a-example-application-of-gwt/
