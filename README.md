@@ -510,7 +510,7 @@ MenuConstants constants = GWT.create(MenuConstants.class);
 - http://habrahabr.ru/post/192262/
 - http://www.pvsm.ru/java/42351/print/
 - http://sysmagazine.com/posts/192262/
-+ http://plugin.gwt-platform.googlecode.com/hg/update/
+- http://plugin.gwt-platform.googlecode.com/hg/update/
 + http://habrahabr.ru/post/154321/
 - http://habrahabr.ru/post/87728/
 -   http://habrahabr.ru/post/141398/
