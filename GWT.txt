@@ -68,6 +68,10 @@
 								 (Emilio Bravo Garcia ** Google Web Toolkit - El framework Google Web Toolkit) http://www.jtech.ua.es/jornadas/charlas/presentacionGWT.pdf
 
 
+                                                                                         (GWT Tutorial in PDF) http://www.tutorialspoint.com/gwt/gwt_pdf_version.htm
+                                                                                                               http://www.tutorialspoint.com/gwt/gwt_tutorial.pdf
+
+
 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
 http://gwt.org.ua/ru/tutorials/tutorial1-part1/
 http://gwt.org.ua/ru/blog/2007/10/16/gwt-ibatis
