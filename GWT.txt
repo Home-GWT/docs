@@ -1,0 +1,87 @@
+
+                                                                                                               http://www.linux.org.ru/forum/talks/4497412
+*                                                                          (Wikipedia ** Model-View-Presenter) https://ru.wikipedia.org/wiki/Model-View-Presenter
+***                                                (Блог татарина-программиста ** [GWT] Activities And Places) http://gshmalik.blogspot.com/2014/11/gwt-activities-and-places.html
+                                                                                                               http://blog.jeffdouglas.com/2010/01/19/gwt-uibinder-hello-world-tutorial/
+**						   (Блог о Java технологиях ** Разработка GWT приложения с использованием MVP и Mvp4G) http://dmitrynikol.blogspot.com/2011/08/gwt-mvp-mvp4g.html
+**                                                                    (GWT Contacts Demo with MVP and Testing) http://toedter.com/2012/01/16/gwt-contacts-demo-with-mvp-and-testing/
+                                                                                                               https://github.com/toedter/gwt-mvp-contacts/tree/master/com.toedter.gwt.demo.contacts
+											(Hive Development Limited ** Google Web Toolkit (GWT) MVP Example) http://blog.hivedevelopment.co.uk/2009/08/google-web-toolkit-gwt-mvp-example.html
+**											                                          (Введение в MVP GWT 2.1) http://habrahabr.ru/post/113121/
+
+***                                                                                  (GWT Interview Questions) http://snsankar.blogspot.com/
+*                                                                                                              http://ru.stackoverflow.com/questions/tagged/gwt
+                                                                                                               http://www.quizful.net/post/gwt-tutorial-introduction
+***                                                                                     (ANSWER ANY QUESTIONS) http://answered.site/questions/tagged/gwt-mvp
+                                                                                                               http://faqexplorer.com/MORE/4114/
+
+													  (Ни слова о луке ** Слайды мастер-класса по GWT и mvp4g) http://shamansir.github.io/blog/ru/articles/gwt-mvp4g-slides/
+													                                                           http://shamansir-ru.tumblr.com/post/1728720550/ >> https://github.com/shamansir/gwt-mvp4g-layouting-demo
+																											   http://shamansir-ru.tumblr.com/post/8205688011/gwt-mvp4g-video
+    (Google.App.Engine.Java.and.GWT.Application.Development ** Connectr MVP application architecture overview) https://www.safaribooksonline.com/library/view/google-app-engine/9781849690447/ch06s03.html
+	                                  (Lead your flow ** Реализация MVP паттерна для GWT – Mvp4g – дополнения) http://webdizz.name/blog/2009/10/21/mvp-pattern-for-gwt-implementation-mvp4g-addons/
+                                                      (What is Model View Presenter (MVP) in GWT Application?) http://www.javabeat.net/what-is-model-view-presenter-mvp-in-gwt-application/
+												  (Google Web Toolkit ** Activities and Places ** Страница 15) http://files.meetup.com/6803932/gwt-slides.pdf
+												                      ([GWT] ** Building MVP apps: MVP Part I) http://www.gwtproject.org/articles/mvp-architecture.html
+													                  (Google ** Developers ** Страница 18-20) http://commondatastorage.googleapis.com/io-2013/presentations/421 - Demystifying MVP and EventBus in GWT (Tech Talk).pdf
+
+
+    (T.M. SoftStudio ** Пример. Создание GWT приложения Content Delivery Node для платформы Google App Engine) http://ru.tmsoftstudio.com/file/page/Eclipse4/e4_ch10_sozdanie-gwt-prilozhenij.html
+**                                                    (Google Developers ** Google Web Toolkit - Speed Tracer) https://developers.google.com/web-toolkit/speedtracer/?hl=ru
+                                                                                                               https://developers.google.com/web-toolkit/speedtracer/get-started
+                                                                                                               http://theultralinx.com/2014/03/10-google-chrome-extensions-developers-web-designers/
+
+                                         (Эдд Бернед ** Google Web Toolkit ** Принимая на себя страдания Ajax) http://masters.donntu.org/2011/fknt/gkarpunov/library/gkarpunov_gwt_pragmatic.pdf
+									                          (Котенко Антон ** веб-разработка на GWT и mvp4g) http://www.addconf.ru/presentations/ADD-2/presentations/AntonKotenko.pdf
+
+         (Programmation GWT 2 ** Developper des applications HTML5/JavaScript en Java avec Google Web Toolkit) http://solene.stefan.free.fr/GWT/Programmation_GWT_2_ed2_v1.pdf
+															         (GWT usando o Padrao MVP ** Страница 5,7) http://www.univale.com.br/unisite/mundo-j/artigos/41Gwt.pdf
+											  (Roy Peled ** An MVP guide to JavaScript – Model-View-Presenter) http://www.roypeled.com/an-mvp-guide-to-javascript-model-view-presenter/
+																							  (gwt-mvp-sample) https://code.google.com/p/gwt-mvp-sample/downloads/detail?name=bit-1.0.0.zip&can=2&q=
+																						  (GWT Best Practices) http://blog.project-sierra.de/archives/831
+																							   (gwt-presenter) https://code.google.com/p/gwt-presenter/
+																										       https://github.com/randombits-org/gwt-presenter
+																					 (Developpement GWT – MVP) http://blog.soat.fr/2013/06/developpement-gwt-mvp/
+																					([GWT] ** GWT & Hibernate) http://www.gwtproject.org/articles/using_gwt_with_hibernate.html
+																			  (bonsai tree ** gwt mvp pattern) http://bonsaitree.ga/gwt-mvp-pattern/
+																(Рубрика MVP ** MVP за 7 недель. Как это было) http://www.pvsm.ru/cat/mvp
+																					 (PWT Putnami Web Toolkit) http://pwt.putnami.org/#!Navigation
+*																							(GWT 2.5 Tutorial) http://courses.coreservlets.com/Course-Materials/gwt.html
+																				  (GWT + mvp4g Lecture Slides) http://shamansir.tumblr.com/post/5311666870/gwt-mvp4g-lecture-slides
+*** (ВЫПУСКНАЯ КВАЛИФИКАЦИОННАЯ РАБОТА - Реферат ** SFLOW, МОНИТОРИНГ СЕТЕЙ, ПЛАТФОРМА JAVA, MODEL-VIEW-PRESENTER, VAADIN **  MVP ** Страница 11,17) http://www.csd.tsu.ru/sites/default/files/Хранилище/people/выпускники/2014/diplom_Perikov.pdf
+*																			  (Google GWT MVP Model (General)) http://minutefforts.com/blog/wp-content/uploads/2011/10/gwt-mvp-classes.pdf
+																				 (Introduction in MVP GWT 2.1) http://sysmagazine.com/posts/113121/
+																		(Draconian Overlord ** GWT MVP Tables) www.draconianoverlord.com/2010/03/31/gwt-mvp-tables.html
+																				  (хабы ** Google Web Toolkit) planhost.ru/cache/hub/gwt/
+***																			 (MVP/Event bus framework for GWT) mvp4g.blogspot.com
+																					     (mvp4g **  Downloads) https://code.google.com/p/mvp4g/wiki/Downloads
+																						     (GWT ** Overview) http://gwtproject.gquery.org/doc/latest/DevGuideClientBundle.html
+																	  (Overview of WebAdmin and UI Frameworks) https://www.ovirt.org/images/5/50/OVirt-engine-Webadmin-2012-10.pdf
+															   (Differences between MVC and MVP for Beginners) http://www.codeproject.com/Articles/288928/Differences-between-MVC-and-MVP-for-Beginners
+													 (Robert T. Cooper, Charlie E. Collins ** GWT in Practice) http://tufar.com/pub/GWT/GWT in Practice.pdf
+						(Daniel Kurka, Software Engineer ** Google Developers - GWT History, Present & Future) http://daniel-kurka.de/talks/wjax2013/gwt.pdf
+				 (Architecture GWT (Google Web Toolkit) : bonnes pratiques pour applications professionnelles) http://www.lucsorel.com/media/downloads/20100323_GranitGwtLucSorel_diaporama.pdf
+																					(Reid Holmes ** MVC / MVP) https://cs.uwaterloo.ca/~rtholmes/teaching/2015winter/cs446/slides/SE2_20_design_mvc-mvp.pdf
+																								  (MVP vs. MV) http://web.cecs.pdx.edu/~whitlock/pdf/gwt2-2x2.pdf
+							  (GWT Tutotial ** MVP - Model View Presenter - GWT Tutorial (Google Web Toolkit)) http://tutorialsvideos.com/d/4523711-mvp-model-view-presenter-gwt-tutorial-google-web-toolkit
+																							  (GWT - Tutorial) http://www.vogella.com/tutorials/GWT/article.html
+								 (Emilio Bravo Garcia ** Google Web Toolkit - El framework Google Web Toolkit) http://www.jtech.ua.es/jornadas/charlas/presentacionGWT.pdf
+
+
++ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+http://gwt.org.ua/ru/tutorials/tutorial1-part1/
+http://gwt.org.ua/ru/blog/2007/10/16/gwt-ibatis
+(Google App Engine Java и Google Web Toolkit. Разработка Web-приложений) http://scanlibs.com/google-app-engine-java-i-google-web-toolkit-razrabotka-web-prilozheniy/
+(The Google Web Toolkit (GWT): The Model-View-Presenter (MVP) Architecture – General Approach) http://courses.coreservlets.com/Course-Materials/pdf/ajax/GWT-MVP-Intro.pdf
+                                                                                               http://courses.coreservlets.com/Course-Materials/pdf/ajax/GWT-MVP-Framework.pdf
+(Хранилища Bigtable, Blobstore и Google Storage для GAE ** Выберите подходящий вариант из трех хранилищ данных для GAE) https://www.ibm.com/developerworks/ru/library/j-gaestorage/
+(SmartGWT) http://www.smartclient.com/product/smartgwt.jsp
+           http://www.smartclient.com/smartgwtee/showcase/#dataPointsChart
+		   http://www.smartclient.com/smartgwt/showcase/#featured_complete_app
+		   https://code.google.com/p/webutilities/wiki/JSCSSMergeServlet
+(Building a GWT RPC Service – Tutorial) http://developerlife.com/tutorials/?p=125
+(Создание и запуск приложения на GWT и Maven в среде Eclipse) http://interosite.ru/articles/gwt-maven-eclipse
+
+
++ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+(смотреть презентации формата ppt онлайн) http://ppt-online.org/
