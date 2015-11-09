@@ -27,6 +27,7 @@
 
 
     (T.M. SoftStudio ** Пример. Создание GWT приложения Content Delivery Node для платформы Google App Engine) http://ru.tmsoftstudio.com/file/page/Eclipse4/e4_ch10_sozdanie-gwt-prilozhenij.html
+                                                                                                               http://ru.tmsoftstudio.com/file/page/Eclipse4/e4_ch10_primer-sozdanie-gwt-prilozheniya-content-delivery-node-dlya-platformy-google-app-engine.html
 **                                                    (Google Developers ** Google Web Toolkit - Speed Tracer) https://developers.google.com/web-toolkit/speedtracer/?hl=ru
                                                                                                                https://developers.google.com/web-toolkit/speedtracer/get-started
                                                                                                                http://theultralinx.com/2014/03/10-google-chrome-extensions-developers-web-designers/
@@ -70,6 +71,7 @@
 
                                                                                          (GWT Tutorial in PDF) http://www.tutorialspoint.com/gwt/gwt_pdf_version.htm
                                                                                                                http://www.tutorialspoint.com/gwt/gwt_tutorial.pdf
+                                                                                                               http://www.tutorialspoint.com/gwt/gwt_create_application.htm
 
 
 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
